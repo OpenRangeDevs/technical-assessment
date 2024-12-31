@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "ruby.format": true,
+  "ruby.lint": {
+    "rubocop": true
+  },
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 120,
+  "files.associations": {
+    "*.erb": "erb"
+  }
+}
